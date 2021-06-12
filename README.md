@@ -1,7 +1,7 @@
 ## Android App Permission Dataset
 
 ### Permission data of 1 million android application from Google Playstore.
-<img src="banner.png" height="300" />
+<img src="banner.png" width="440" height="200" />
 
 
 Also available in Kaggle: https://www.kaggle.com/gauthamp10/app-permissions-android
