@@ -4,7 +4,7 @@
 <img src="banner.png" width="440" height="200" />
 
 
-Also available in Kaggle: https://www.kaggle.com/gauthamp10/app-permissions-android
+For latest dataset updates. Download from Kaggle: https://www.kaggle.com/gauthamp10/app-permissions-android
 
 I've collected the data with the help of Python and Scrapy running on a cloud virtual machine with the United States as geolocation.
 The data was collected on June 2021.
