@@ -9,6 +9,8 @@ For latest dataset updates. Download from Kaggle: https://www.kaggle.com/gautham
 I've collected the data with the help of Python and Scrapy running on a cloud virtual machine with the United States as geolocation.
 The data was collected on June 2021.
 
+<br/>
+
 ### Sample
 
 ```
@@ -184,6 +186,8 @@ The data was collected on June 2021.
 ```
 
 Also checkout the Google Play Store Apps dataset: https://github.com/gauthamp10/Google-Playstore-Dataset
+
+<br/>
 
 ### Acknowledgements
 
