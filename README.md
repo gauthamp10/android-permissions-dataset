@@ -182,6 +182,9 @@ The data was collected on June 2021.
 ]
 
 ```
+
+Also checkout the Google Play Store Apps dataset: https://github.com/gauthamp10/Google-Playstore-Dataset
+
 ### Acknowledgements
 
 I couldn't have build this dateset without the help of Digitalocean and github.
